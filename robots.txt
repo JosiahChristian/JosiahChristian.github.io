@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://josiahchristian.github.io/sitemap.xml
